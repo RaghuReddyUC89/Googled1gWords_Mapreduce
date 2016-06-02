@@ -1,6 +1,7 @@
 # Googled1gWords_Mapreduce
 For each year available of Google 1 gram data set, plot the size of the set of words used.  Year on the x-axis, number of words on y-axis.?
 
+(Plot screenshot is also attached)
 Approach:
 
 I chose streaming-mode to run map reduce on Google 1 gram data set. I wrote Map and Reduce jobs in python. Map_ng.py and red_ng.py are the map and reduce python files.
